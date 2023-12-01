@@ -11,6 +11,17 @@ With a simple and user-friendly interface, this app allows users to select the c
 -React: JavaScript library for building user interfaces.
 -Axios: Promise-based HTTP client for making API requests.
 
+**Project Installation**
+Provide step-by-step instructions on how to install the project dependencies, if any.
+
+![image](https://github.com/Prat-2002/Todaypay/assets/94755712/e0995c87-0aee-42a8-a629-37b9a5a14865)
+
+**Usage**
+Explain how to use/run the project. Include any commands or scripts needed to start the application.
+
+![image](https://github.com/Prat-2002/Todaypay/assets/94755712/0958509e-4d68-459b-94fb-832e7c3d1637)
+
+
 **API Integration**
 The project uses the following API endpoint to retrieve currency information:
 
