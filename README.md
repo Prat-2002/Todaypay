@@ -13,8 +13,24 @@ With a simple and user-friendly interface, this app allows users to select the c
 
 **API Integration**
 The project uses the following API endpoint to retrieve currency information:
+
 ![image](https://github.com/Prat-2002/Todaypay/assets/94755712/f40fbfe6-728a-40eb-ba2e-201328ce887b)
 
+**Method**
+GET
+
+**Parameters**
+{currency_symbol}: Replace this with the currency symbol to fetch its information.
+
+**Implementation**
+The provided code snippet demonstrates how to make an API call using Axios within a React component using the useEffect hook:
+
+![image](https://github.com/Prat-2002/Todaypay/assets/94755712/93defe4d-6099-47c5-9d00-2875e027ff17)
+
+**Usage**
+-Ensure the 'Axios' library is installed in your project.
+-Modify the 'from' state variable with the desired currency symbol before making the API call.
+-Implement the desired logic to handle the fetched currency information within your component.
 
 **Acknowledgments:**
 -This project utilizes the API for currency conversion data.
